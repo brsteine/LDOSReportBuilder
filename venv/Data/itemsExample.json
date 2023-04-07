@@ -1,0 +1,592 @@
+[
+  {
+    "common": "DPS",
+    "SAV": "TX-STATE OF TEXAS-DEPARTMENT OF PUBLIC SAFETY",
+    "businessEntity": "Enterprise Routing",
+    "subBusEntity": "Ent. Access Routing",
+    "productType": "SOFTWARE",
+    "configID": "10.0",
+    "PID": "IOSXE-AUTO-MODE-PF",
+    "description": "IOS XE Autonomous boot up mode for Unified image",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "DPS",
+    "SAV": "TX-STATE OF TEXAS-DEPARTMENT OF PUBLIC SAFETY",
+    "businessEntity": "Wireless",
+    "subBusEntity": "Ent. - Wireless",
+    "productType": "CHASSIS",
+    "configID": "339.0",
+    "PID": "AIR-CAP3602I-A-K9",
+    "description": "802.11n CAP w/CleanAir 4x43SS Mod Int Ant A Reg Domain",
+    "coveredStatus": "Never Covered",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2021",
+    "subconfig": [
+      {
+        "parentConfig": 339,
+        "configID": "1",
+        "PID": "AIR-AP-BRACKET-1",
+        "qty": "1",
+        "description": "802.11 AP Low Profile Mounting Bracket (Default)",
+        "coveredStatus": "Never Covered",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": ""
+      },
+      {
+        "parentConfig": 339,
+        "configID": "2",
+        "PID": "S3G2RK9W8-12423JY",
+        "qty": "1",
+        "description": "^Cisco 3600 Series IOS WIRELESS LAN RECOVERY",
+        "coveredStatus": "Never Covered",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2021"
+      },
+      {
+        "parentConfig": 339,
+        "configID": "3",
+        "PID": "AIR-AP-T-RAIL-R",
+        "qty": "1",
+        "description": "Ceiling Grid Clip for APs & Cellular Gateways-Recessed",
+        "coveredStatus": "Never Covered",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": ""
+      }
+    ]
+  },
+  {
+    "common": "HHS",
+    "SAV": "TX-STATE OF TEXAS-DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "6.0",
+    "PID": "A-SPK-NU-M2-X",
+    "description": "Included Basic Meetings (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "2025",
+    "subconfig": []
+  },
+  {
+    "common": "OAG",
+    "SAV": "TX-STATE OF TEXAS-OFFICE OF THE ATTORNEY GENERAL",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "UC Infrastructure Applications",
+    "productType": "SOFTWARE",
+    "configID": "1.0",
+    "PID": "A-FLEX-H-PRO",
+    "description": "Unified Communications Manager Smart License",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "2024",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-BOARD OF NURSING",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "4.0",
+    "PID": "A-AUD-VOIP",
+    "description": "Included VoIP (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-BOARD OF NURSING",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "5.0",
+    "PID": "A-AUD-TOLLDIALIN",
+    "description": "Meetings Toll Dial-In Audio (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-DEPARTMENT OF BANKING",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "3.0",
+    "PID": "A-AUD-EDGEAUD-USER",
+    "description": "Webex Edge Audio (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-DEPARTMENT OF EMERGENCY COMMUNICATIONS",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "9.0",
+    "PID": "A-FLEX-MSG-NU-ENT",
+    "description": "Messaging Named User Entitlement (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-DEPARTMENT OF INSURANCE",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "2.0",
+    "PID": "A-FLEX-FILESTG-ENT",
+    "description": "File Storage Entitlement",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "Enterprise Routing",
+    "subBusEntity": "Ent. Access Routing",
+    "productType": "CHASSIS",
+    "configID": "330.0",
+    "PID": "CISCO2921-SEC/K9",
+    "description": "^Cisco 2921 Security Bundle w/SEC license PAK",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Compliance Flagged-INSTALLED",
+    "ldosYear": "2022",
+    "subconfig": [
+      {
+        "parentConfig": 330,
+        "configID": "1",
+        "PID": "PWR-2921-51-AC",
+        "qty": "1",
+        "description": "^Cisco 2921/2951 AC Power Supply",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "2",
+        "PID": "SM-S-BLANK",
+        "qty": "1",
+        "description": "Removable faceplate for SM slot on Cisco 2900,3900,4400 ISR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "3",
+        "PID": "HWIC-BLANK",
+        "qty": "4",
+        "description": "Blank faceplate for HWIC slot on Cisco ISR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "4",
+        "PID": "S29UK9-15104M",
+        "qty": "1",
+        "description": "Cisco 2901-2921 IOS UNIVERSAL",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2018"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "5",
+        "PID": "SL-29-IPB-K9",
+        "qty": "1",
+        "description": "IP Base License  for Cisco 2901-2951",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2026"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "6",
+        "PID": "SL-29-SEC-K9",
+        "qty": "1",
+        "description": "Security License  for Cisco 2901-2951",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2026"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "7",
+        "PID": "ISR-CCP-EXP",
+        "qty": "1",
+        "description": "Cisco Config Pro Express on Router Flash",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": ""
+      },
+      {
+        "parentConfig": 330,
+        "configID": "8",
+        "PID": "SM-D-BLANK",
+        "qty": "1",
+        "description": "Blank faceplate for DW slot on Cisco 2951 and 3925",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 330,
+        "configID": "9",
+        "PID": "MEM-CF-256MB",
+        "qty": "1",
+        "description": "256MB Compact Flash for Cisco 1900, 2900, 3900 ISR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": ""
+      },
+      {
+        "parentConfig": 330,
+        "configID": "1",
+        "PID": "MEM-2900-512MB-DEF",
+        "qty": "1",
+        "description": "^512MB DRAM for Cisco 2901-2921 ISR (Default)",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Compliance Flagged-INSTALLED",
+        "ldosYear": "2022"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "Enterprise Routing",
+    "subBusEntity": "Ent. Access Routing",
+    "productType": "CHASSIS",
+    "configID": "331.0",
+    "PID": "CISCO2921-SEC/K9",
+    "description": "^Cisco 2921 Security Bundle w/SEC license PAK",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2022",
+    "subconfig": [
+      {
+        "parentConfig": 331,
+        "configID": "1",
+        "PID": "PWR-2921-51-AC",
+        "qty": "1",
+        "description": "^Cisco 2921/2951 AC Power Supply",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "2",
+        "PID": "SM-S-BLANK",
+        "qty": "1",
+        "description": "Removable faceplate for SM slot on Cisco 2900,3900,4400 ISR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "3",
+        "PID": "HWIC-BLANK",
+        "qty": "4",
+        "description": "Blank faceplate for HWIC slot on Cisco ISR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "4",
+        "PID": "MEM-CF-256MB",
+        "qty": "1",
+        "description": "256MB Compact Flash for Cisco 1900, 2900, 3900 ISR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": ""
+      },
+      {
+        "parentConfig": 331,
+        "configID": "5",
+        "PID": "SL-29-SEC-K9",
+        "qty": "1",
+        "description": "Security License  for Cisco 2901-2951",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2026"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "6",
+        "PID": "ISR-CCP-EXP",
+        "qty": "1",
+        "description": "Cisco Config Pro Express on Router Flash",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": ""
+      },
+      {
+        "parentConfig": 331,
+        "configID": "7",
+        "PID": "SM-D-BLANK",
+        "qty": "1",
+        "description": "Blank faceplate for DW slot on Cisco 2951 and 3925",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "8",
+        "PID": "S29UK9-15104M",
+        "qty": "1",
+        "description": "Cisco 2901-2921 IOS UNIVERSAL",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2018"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "9",
+        "PID": "MEM-2900-512MB-DEF",
+        "qty": "1",
+        "description": "^512MB DRAM for Cisco 2901-2921 ISR (Default)",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2022"
+      },
+      {
+        "parentConfig": 331,
+        "configID": "1",
+        "PID": "SL-29-IPB-K9",
+        "qty": "1",
+        "description": "IP Base License  for Cisco 2901-2951",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2026"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "332.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 332,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "333.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 333,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "334.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 334,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "335.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 335,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "336.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 336,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "337.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "EXPIRED",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 337,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "EXPIRED",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-RIVER AUTHORITY",
+    "businessEntity": "IOT",
+    "subBusEntity": "IOT Switching",
+    "productType": "CHASSIS",
+    "configID": "338.0",
+    "PID": "IE-3000-8TC-E",
+    "description": "IE 3000 8-Port Base Switch w/ Layer 3",
+    "coveredStatus": "Never Covered",
+    "installStatus": "Latest-INSTALLED",
+    "ldosYear": "2025",
+    "subconfig": [
+      {
+        "parentConfig": 338,
+        "configID": "1",
+        "PID": "SIESSPST-12255SE",
+        "qty": "1",
+        "description": "Cisco IE 3000  IP SERVICES W/O CRYPTO WITH WEB BASED DEV MGR",
+        "coveredStatus": "Never Covered",
+        "installStatus": "Latest-INSTALLED",
+        "ldosYear": "2019"
+      }
+    ]
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-STATE OF TEXAS-SECRETARY OF STATE",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "Conferencing",
+    "productType": "SOFTWARE",
+    "configID": "8.0",
+    "PID": "A-FLEX-EC-ENT",
+    "description": "Events Entitlement (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  },
+  {
+    "common": "Other",
+    "SAV": "TX-TEXAS ASSOCIATION OF REGIONAL COUNCILS",
+    "businessEntity": "Collaboration",
+    "subBusEntity": "UC Infrastructure Applications",
+    "productType": "SOFTWARE",
+    "configID": "7.0",
+    "PID": "A-FLEX-EXP-KEY",
+    "description": "Expressway Release Key (1)",
+    "coveredStatus": "Active",
+    "installStatus": "",
+    "ldosYear": "",
+    "subconfig": []
+  }
+]
